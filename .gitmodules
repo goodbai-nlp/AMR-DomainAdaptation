@@ -1,3 +1,12 @@
 [submodule "AMRBART/AMRBART"]
 	path = AMRBART/AMRBART
 	url = https://github.com/goodbai-nlp/AMRBART.git
+[submodule "JAMR/jamr"]
+	path = JAMR/jamr
+	url = https://github.com/jflanigan/jamr.git
+[submodule "AMRGS/AMR-gs"]
+	path = AMRGS/AMR-gs
+	url = https://github.com/jcyk/AMR-gs.git
+[submodule "StructBART/transition-amr-parser"]
+	path = StructBART/transition-amr-parser
+	url = https://github.com/IBM/transition-amr-parser.git
